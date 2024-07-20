@@ -1,0 +1,48 @@
+Packet Filtering Firewall
+--------------------------------
+cse(2017-2021)
+4th year Final year Project 
+Submit date- 03/07/21
+--------------------------------
+group 2
+------------
+Riddhiman De(34)
+Sandipan Hatai(43)
+Samir Jana(47)
+Abhshishek Mukherjee(58)
+
+Mentor-Mr. Samrat Sarkar
+-------------------------------------------------------------------------------------------------
+Working Procedure:
+
+It’s very easy to use just open NetBeans, open project directory and follow the given steps-
+
+Step1- Run server, firewall and client code. 
+
+Step2- Enter the server port and use “Connect” button to active serversocket. 
+
+Step3- Enter client port and Server port on client window and click “go” button.
+
+Then just check firewall’s response.
+
+Note-
+> Check table.jpg for understanding the ports which is restricted to use.
+> this project need to import on Apache NetBeans IDE(used vr 12.0)
+-----------------------------------------------------------------------------------------------------\
+---------------------------------------------------------------------------------------------------| |
+                                                                                                   | |
+########    #         #         #        #     #    #   #           #     #   ######   #     #     | |
+   #        #         #        # #       # #   #    #  #             #   #   #      #  #     #     | |
+   #        ###########       #   #      #  #  #    # #               # #    #      #  #     #     | |
+   #        #         #      #######     #   # #    #  #               #     #      #  #     #     | |
+   #        #         #     #       #    #     #    #   #              #      ######    #####      | |
+                                                                                                   | |
+---------------------------------------------------------------------------------------------------| |
+-----------------------------------------------------------------------------------------------------/
+
+
+
+
+
+
+
