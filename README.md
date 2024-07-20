@@ -6,10 +6,10 @@ Submit date- 03/07/21
 --------------------------------
 group 2
 ------------
-Riddhiman De(34)
-Sandipan Hatai(43)
-Samir Jana(47)
-Abhshishek Mukherjee(58)
+Riddhiman De (34)
+Sandipan Hatai (43)
+Samir Jana (47)
+Abhshishek Mukherjee (58)
 
 Mentor-Mr. Samrat Sarkar
 -------------------------------------------------------------------------------------------------
